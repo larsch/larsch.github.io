@@ -22,9 +22,9 @@ intersection() {
 
 ![Solid of constant width](/img/socw.png)
 
+Or check out this Numberphile video:
 
-
-[![Numberphile Video on Shaps and Solids of constant width](http://img.youtube.com/vi/cUCSSJwO3GU/0.jpg)](http://www.youtube.com/watch?v=cUCSSJwO3GU "Shapes and Solids of Constant Width - Numberphile")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cUCSSJwO3GU" frameborder="0" allowfullscreen></iframe>
 
 [socw-wiki]: https://en.wikipedia.org/wiki/Surface_of_constant_width
 [OpenSCAD]: http://www.openscad.org/
