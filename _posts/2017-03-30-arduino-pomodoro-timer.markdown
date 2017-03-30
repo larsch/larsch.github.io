@@ -43,24 +43,7 @@ get the enclosure I wanted.
 The 7-segment display is a 12-pin common anode type and takes up 12
 pins on the Arduino.
 
-I made a couple of design and implementation choices:
-
-* The 25-minute focus period and 5-minute break period are fixed
-  (Pomodoro standard)
-* The 25-minute focus period _can_ be interrupted by holding the
-  button. The timer will return to idle mode.
-* The 5-minute pause timer _can't_ be interrupted. This is to prevent
-  myself from just restarting another Pomodoro focus period.
-
-Ideas for version 3:
-
-* Integrate with a PC-application that set all applications to _Do Not Disturb_.
-* Completed Pomodoro counter or score.
-* The indicator/button could be more robust
-
-* The source, STL and FreeCAD files for this project are available on github:
-
-of design and implementation choices:
+Design and implementation choices:
 
 * The 25-minute focus period and 5-minute break period are fixed
   (Pomodoro standard)
