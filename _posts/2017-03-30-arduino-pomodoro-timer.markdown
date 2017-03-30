@@ -30,8 +30,8 @@ The indicator light is also the button! The indicator is printed with
 inside is a [8 mm diffuse
 APA106](https://www.aliexpress.com/store/product/APA106-F8-8mm-round-hat-RGB-LED-with-APA-106-chipset-inside-full-color-frosted/701799_2043993382.html)
 RGB diode with integrated IC (WS2812b compatible). I chose this
-because I had some lying around. An PWM-driven RGB diode would also
-work.
+because I had some lying around and it is quite bright. An PWM-driven
+RGB diode would also work.
 
 The inside is a spiderweb. It was an easy way to make it compact and
 get the enclosure I wanted.
