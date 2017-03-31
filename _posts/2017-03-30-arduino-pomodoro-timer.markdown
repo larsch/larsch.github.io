@@ -19,8 +19,8 @@ This a 3d-printed/Arduino 25-minute + 5-minute Pomodoro timer, showing
 a red indicator light while running. Then the Pomodoro is up, the
 light turns green and sets a 5 second timer:
 
-This is actually version 2. (My first Pomodoro
-timer)[https://youtu.be/qhwcxlW7Q04] project ended up being fun but
+This is actually version 2. [My first Pomodoro
+timer](https://youtu.be/qhwcxlW7Q04) project ended up being fun but
 not that useful.
 
 ![Pomodoro Timer](/img/pomodoro_green.jpeg){:class="img-responsive"}
